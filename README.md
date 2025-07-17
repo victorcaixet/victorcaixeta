@@ -1,18 +1,18 @@
 
 Estudante de Engenharia Mecatrônica na Universidade Federal de Uberlândia (UFU), apaixonado por robótica, sistemas de controle e inteligência artificial.
 
-
+---
 
 - **Linguagens de Programação:** C++, Python
 - **Ferramentas:** ROS, MATLAB
-- **Atualmente aprendendo:** Movimento de robôs humanoides e aplicações ROS
+- **Atualmente aprendendo:** Movimento de robôs humanoides e aplicações ROS <br>
 
 
 
 - 🎓 Cursando Engenharia Mecatrônica - UFU.
 - 🤖 Diretor EDROM Behaviour.
 - 🏆 Participação na CBR 2024.
-- 📫 Contato: victorvasconcelos676@gmail.com
+- 📫 Contato: victorvasconcelos676@gmail.com <br>
 
 ---
 
@@ -34,5 +34,5 @@ Estudante de Engenharia Mecatrônica na Universidade Federal de Uberlândia (UFU
 
 
 </p>
-
+<br>
 
