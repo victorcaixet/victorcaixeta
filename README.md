@@ -2,11 +2,11 @@
 Estudante de Engenharia Mecatrônica na Universidade Federal de Uberlândia (UFU), apaixonado por robótica, sistemas de controle e inteligência artificial.
 
 
-### 🔭 Meus Interesses e Habilidades
 
 - **Linguagens de Programação:** C++, Python
 - **Ferramentas:** ROS, MATLAB
 - **Atualmente aprendendo:** Movimento de robôs humanoides e aplicações ROS
+
 
 
 - 🎓 Cursando Engenharia Mecatrônica - UFU.
@@ -32,5 +32,7 @@ Estudante de Engenharia Mecatrônica na Universidade Federal de Uberlândia (UFU
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
   </a>
 
+
 </p>
+
 
